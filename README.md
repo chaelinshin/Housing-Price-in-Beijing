@@ -1,1 +1,1 @@
-# Intro-to-Data-Mining-Housing-Price-in-Beijing
+Class project for the Intro to Data Mining class at the George Washington University
