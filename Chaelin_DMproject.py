@@ -1,3 +1,5 @@
+# The following codes are based on codes from course material (Intro to Data Mining, 6103, at the George Washington University)
+
 
 #%%
 # Standard basic checks
